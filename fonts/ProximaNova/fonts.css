@@ -1,0 +1,61 @@
+/* ProximaNova */
+@font-face {
+  font-family: ProximaNova;
+  src: url(./PROXIMANOVA-LIGHT.OTF);
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: ProximaNova;
+  src: url(./PROXIMANOVA-LIGHTITALIC.OTF);
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: ProximaNova;
+  src: url(./PROXIMANOVA-REGULAR.OTF);
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: ProximaNova;
+  src: url(./PROXIMANOVA-REGULARITALIC.OTF);
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: ProximaNova;
+  src: url(./PROXIMANOVA-SEMIBOLD.OTF);
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: ProximaNova;
+  src: url(./PROXIMANOVA-SEMIBOLDITALIC.OTF);
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: ProximaNova;
+  src: url(./PROXIMANOVA-BOLD.OTF);
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: ProximaNova;
+  src: url(./PROXIMANOVA-BOLDITALIC.OTF);
+  font-weight: 600;
+  font-style: italic;
+}
+@font-face {
+  font-family: ProximaNova;
+  src: url(./PROXIMANOVA-EXTRABOLD.OTF);
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: ProximaNova;
+  src: url(./PROXIMANOVA-BLACK.OTF);
+  font-weight: 800;
+  font-style: normal;
+}
